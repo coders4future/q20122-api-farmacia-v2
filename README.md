@@ -1,4 +1,4 @@
-#Api Farmácia
+# Api's Farmácia
 ### Conjunto de Api's para o Backend da aplicação de Farmácia (LukeSkywaklker)
 
 ![](https://img.shields.io/badge/API-Node-green) ![](https://img.shields.io/badge/DBA-DBeaver-blue)
