@@ -9,7 +9,7 @@
 1 - Instale o Git na sua máquiana clicando [aqui](https://git-scm.com/)
 
 2 - Faça o clone do repositório para o seu pc.
-``git clone - https://github.com/coders4future/q20122-api-farmacia-v2.git``
+``git clone https://github.com/coders4future/q20122-api-farmacia-v2.git``
 
 3 - Instale todas as dependencias
 ``npm i`` ou `npm install`
